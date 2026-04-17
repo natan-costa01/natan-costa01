@@ -1,6 +1,6 @@
 # 👨‍💻 Natan Costa
 
-Olá! Me chamo Natan e sou estudante de Ciência da Computação pela FIAP. Tenho grande interesse na área de dados, análise de mercado e backend. Busco desenvolver minhas habilidades e aplicar conhecimentos em projetos práticos. Atualmente, estou em busca de uma oportunidade profissional que me permita crescer na área, contribuir com soluções baseadas em dados e adquirir experiência no mercado.
+Olá! Me chamo Natan e sou estudante de Ciência da Computação pela FIAP. Tenho grande interesse na área de dados, análise de mercado. Busco desenvolver minhas habilidades e aplicar conhecimentos em projetos práticos. Atualmente, estou em busca de uma oportunidade profissional que me permita crescer na área, contribuir com soluções baseadas em dados e adquirir experiência no mercado.
 
 
 ## 📊 Estatísticas do GitHub
