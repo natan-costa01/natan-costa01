@@ -1,44 +1,59 @@
-# 🚘 Natan Costa
+# 👨‍💻 Natan Costa
 
-Olá! Me chamo Natan e sou estudante de Ciência da Computação pela FIAP. Tenho grande interesse na área de dados, análise de mercado. Busco desenvolver minhas habilidades e aplicar conhecimentos em projetos práticos. Atualmente, estou em busca de uma oportunidade profissional que me permita crescer na área, contribuir com soluções baseadas em dados e adquirir experiência no mercado.
+  Olá! Me chamo Natan e sou estudante de Ciência da Computação pela FIAP. Tenho grande interesse na área de dados, análise de mercado. Busco desenvolver minhas habilidades e aplicar conhecimentos em projetos práticos. Atualmente, estou em busca de uma oportunidade profissional que me permita crescer na área, contribuir com soluções baseadas em dados e adquirir experiência no mercado.
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7A5CFA&center=true&vCenter=true&width=800&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Python+%7C+JavaScript+%7C+Data+Science;Machine+Learning+e+An%C3%A1lise+de+Dados;Sempre+aprendendo+novas+tecnologias" />
+</p>
 
-## 📊 Estatísticas do GitHub
+---
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=natan-costa01&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natan-costa01&layout=compact&langs_count=7&theme=radical"/>
-</div>
+## 📊 GitHub Analytics
 
-## 🚀 Tecnologias e Ferramentas
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=natan-costa01&theme=tokyonight&hide_border=true" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=natan-costa01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=natan-costa01&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Tecnologias
 
 ### 💻 Linguagens
-<div style="display: flex; gap: 15px; align-items: center;">
-  <img alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-</div>
 
-### 🗄️ Bancos de Dados
-<div style="display: flex; gap: 15px; align-items: center;">
-  <img alt="SQL Server" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img alt="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+<p align="center">
+  <img alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img alt="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img alt="HTML5" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</p>
 
-### 🛠️ Ferramentas e IDEs
-<div style="display: flex; gap: 15px; align-items: center;">
-  <img alt="VS Code" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img alt="Google Colab" height="40" src="https://colab.research.google.com/img/colab_favicon_256px.png">
-  <img alt="PyCharm" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
-</div>
+---
+
+### 📚 Data Science & Bibliotecas
+
+<p align="center">
+  <img alt="Pandas" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img alt="NumPy" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  <img alt="Matplotlib" height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
+  <img alt="Seaborn" height="50" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
+</p>
+
+---
 
 ## 🌐 Contato
 
-<div> 
+<p align="center">
   <a href="https://www.linkedin.com/in/natan-s-costa-291098246" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-  <a href="mailto:silvacnatan@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</div>
+
+  <a href="mailto:silvacnatan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
