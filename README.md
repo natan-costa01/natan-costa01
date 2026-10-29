@@ -1,56 +1,88 @@
-# 👨‍💻 Natan Costa
+<div align="center">
 
-  Olá! Me chamo Natan e sou estudante de Ciência da Computação pela FIAP. Tenho grande interesse na área de dados, análise de mercado. Busco desenvolver minhas habilidades e aplicar conhecimentos em projetos práticos. Atualmente, estou em busca de uma oportunidade profissional que me permita crescer na área, contribuir com soluções baseadas em dados e adquirir experiência no mercado.
+👨‍💻 Natan Costa
+Desenvolvimento de Sistemas • Inteligência Artificial • Análise de Dados
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E53935&center=true&vCenter=true&width=780&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%7C+FIAP;Desenvolvimento+de+Sistemas+%7C+CPTM;T%C3%A9cnico+em+Desenvolvimento+de+Sistemas+%7C+SENAI;Python+%7C+Data+Science+%7C+Machine+Learning" alt="Apresentação animada" />
 
+</div>
+
+👋 Sobre mim
+Olá! Sou Natan Costa, estudante de Ciência da Computação na FIAP, aprendiz em Desenvolvimento de Sistemas na CPTM e aluno do curso Técnico em Desenvolvimento de Sistemas no SENAI Mariano Ferraz.
+
+Tenho interesse em análise de dados, inteligência artificial, machine learning, análise de mercado e desenvolvimento de software. Busco aprimorar minhas habilidades por meio de projetos práticos, aplicando Python e tecnologias web para construir soluções úteis e orientadas a dados.
+🎓 Formação e experiência
+<table>
+<tr>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" alt="Ícone de tecnologia" /></td>
+<td><strong>FIAP</strong><br/>Graduação em Ciência da Computação</td>
+</tr>
+<tr>
+<td align="center"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/CPTM%20(Logo).svg" width="90" alt="Logo da CPTM" /></td>
+<td><strong>CPTM — Companhia Paulista de Trens Metropolitanos</strong><br/>Aprendiz em Desenvolvimento de Sistemas</td>
+</tr>
+<tr>
+<td align="center"><strong>SENAI-SP</strong></td>
+<td><strong>SENAI Mariano Ferraz — Vila Leopoldina</strong><br/>Curso Técnico em Desenvolvimento de Sistemas</td>
+</tr>
+</table>
+
+🚀 Tecnologias e ferramentas
+Linguagens e desenvolvimento
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7A5CFA&center=true&vCenter=true&width=800&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Python+%7C+JavaScript+%7C+Data+Science;Machine+Learning+e+An%C3%A1lise+de+Dados;Sempre+aprendendo+novas+tecnologias" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="45" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="45" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45" alt="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="45" alt="Java" />
 </p>
 
----
-
-## 📊 GitHub Analytics
-
+Ciência de dados e IA
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=natan-costa01&theme=tokyonight&hide_border=true" />
-
-<p align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=natan-costa01&theme=tokyo-night&hide_border=true" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="45" alt="Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="45" alt="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="45" alt="Matplotlib" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="45" alt="Scikit-learn" />
 </p>
 
----
-
-## 🚀 Tecnologias
-
-### 💻 Linguagens
-
+Ferramentas
 <p align="center">
-  <img alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img alt="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img alt="HTML5" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="45" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="45" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="45" alt="Docker" />
 </p>
 
----
+📊 GitHub Analytics
+<div align="center">
 
-### 📚 Data Science & Bibliotecas
+<img src="https://streak-stats.demolab.com?user=natan-costa01&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
 
-<p align="center">
-  <img alt="Pandas" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img alt="NumPy" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img alt="Matplotlib" height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
-  <img alt="Seaborn" height="50" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
-</p>
+</div>
 
----
+Os indicadores são carregados por um serviço externo e podem ficar temporariamente indisponíveis.
 
-## 🌐 Contato
+🌐 Contato
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/natan-s-costa-291098246" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<a href="https://www.linkedin.com/in/natan-s-costa-291098246"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:silvacnatan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="https://github.com/natan-costa01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
 
-  <a href="mailto:silvacnatan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+
+<h2 align="center">👾 Minhas Contribuições</h2>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/natan-costa01/natan-costa01/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/natan-costa01/natan-costa01/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pac-Man comendo minhas contribuições"
+    src="https://raw.githubusercontent.com/natan-costa01/natan-costa01/output/pacman-contribution-graph.svg"
+  />
+</picture>
