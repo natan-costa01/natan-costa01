@@ -12,19 +12,6 @@ Olá! Sou Natan Costa, estudante de Ciência da Computação na FIAP, aprendiz e
 Tenho interesse em análise de dados, inteligência artificial, machine learning, análise de mercado e desenvolvimento de software. Busco aprimorar minhas habilidades por meio de projetos práticos, aplicando Python e tecnologias web para construir soluções úteis e orientadas a dados.
 🎓 Formação e experiência
 <table>
-<tr>
-<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" alt="Ícone de tecnologia" /></td>
-<td><strong>FIAP</strong><br/>Graduação em Ciência da Computação</td>
-</tr>
-<tr>
-<td align="center"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/CPTM%20(Logo).svg" width="90" alt="Logo da CPTM" /></td>
-<td><strong>CPTM — Companhia Paulista de Trens Metropolitanos</strong><br/>Aprendiz em Desenvolvimento de Sistemas</td>
-</tr>
-<tr>
-<td align="center"><strong>SENAI-SP</strong></td>
-<td><strong>SENAI Mariano Ferraz — Vila Leopoldina</strong><br/>Curso Técnico em Desenvolvimento de Sistemas</td>
-</tr>
-</table>
 
 🚀 Tecnologias e ferramentas
 Linguagens e desenvolvimento
@@ -58,8 +45,6 @@ Ferramentas
 <img src="https://streak-stats.demolab.com?user=natan-costa01&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
 
 </div>
-
-Os indicadores são carregados por um serviço externo e podem ficar temporariamente indisponíveis.
 
 🌐 Contato
 <div align="center">
