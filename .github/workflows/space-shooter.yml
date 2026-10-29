@@ -2,9 +2,14 @@
 name: Gerar Space Shooter
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/space-shooter.yml"
 
 permissions:
   contents: write
@@ -14,12 +19,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v6
+      - name: Checkout do repositorio
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          persist-credentials: true
 
-      - name: Criar Space Shooter
+      - name: Gerar Space Shooter
         uses: czl9707/gh-space-shooter@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -27,3 +32,15 @@ jobs:
           output-path: space-shooter.gif
           strategy: random
           fps: 40
+
+      - name: Publicar GIF no repositorio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add space-shooter.gif
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Atualizar Space Shooter"
+            git push
+          fi
