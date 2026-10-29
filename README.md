@@ -121,13 +121,15 @@ Tenho interesse em análise de dados, inteligência artificial, machine learning
 ---
 
 
-<h2 align="center">🏙️ Minhas Contribuições em 3D</h2>
+
+<h2 align="center">🚀 Minhas Contribuições</h2>
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/natan-costa01/natan-costa01/main/profile-3d-contrib/profile-green-animate.svg"
-    alt="Minhas contribuições em 3D"
+    src="https://raw.githubusercontent.com/natan-costa01/natan-costa01/main/space-shooter.gif"
+    alt="Space Shooter das minhas contribuições"
     width="100%"
   />
 </div>
+
 
