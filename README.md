@@ -120,19 +120,14 @@ Tenho interesse em análise de dados, inteligência artificial, machine learning
 
 ---
 
-<h2 align="center">👾 Minhas Contribuições</h2>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/natan-costa01/natan-costa01/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/natan-costa01/natan-costa01/output/pacman-contribution-graph.svg"
-  />
+<h2 align="center">🏙️ Minhas Contribuições em 3D</h2>
+
+<div align="center">
   <img
-    alt="Pac-Man comendo minhas contribuições"
-    src="https://raw.githubusercontent.com/natan-costa01/natan-costa01/output/pacman-contribution-graph.svg"
+    src="https://raw.githubusercontent.com/natan-costa01/natan-costa01/main/profile-3d-contrib/profile-green-animate.svg"
+    alt="Minhas contribuições em 3D"
+    width="100%"
   />
-</picture>
+</div>
+
