@@ -120,14 +120,19 @@ Tenho interesse em análise de dados, inteligência artificial, machine learning
 
 ---
 
+<h2 align="center">👾 Minhas Contribuições</h2>
 
-
-<h2 align="center">🚀 Commit Invaders — Minhas Contribuições</h2>
-
-<div align="center">
-  <a href="https://natan-costa01.github.io/natan-costa01/">
-    <img src="https://img.shields.io/badge/🚀_JOGAR_COMMIT_INVADERS-ED3345?style=for-the-badge" alt="Jogar Commit Invaders interativo" />
-  </a>
-  <p>Controle a nave e destrua os quadradinhos das minhas contribuições reais no GitHub!</p>
-  <sub>Jogo interativo hospedado via GitHub Pages — requer ativar Pages em Settings → Pages → Deploy from a branch → main /docs.</sub>
-</div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/natan-costa01/natan-costa01/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/natan-costa01/natan-costa01/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pac-Man comendo minhas contribuições"
+    src="https://raw.githubusercontent.com/natan-costa01/natan-costa01/output/pacman-contribution-graph.svg"
+  />
+</picture>
