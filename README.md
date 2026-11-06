@@ -56,40 +56,51 @@ Tenho interesse em análise de dados, inteligência artificial, machine learning
 
 ## 🚀 Tecnologias e ferramentas
 
-### 💻 Linguagens e desenvolvimento
-
+### 💻 Linguagens de programação
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="45" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="45" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="45" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,ts" height="48" />
 </p>
 
----
-
-### 📚 Ciência de dados e IA
-
+### 📊 Ciência de Dados, IA e Business Intelligence
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=anaconda,sklearn,pytorch,tensorflow" height="48" />
+</p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="45" alt="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="45" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="45" alt="Matplotlib" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="45" alt="Scikit-learn" />
+  <img src="https://cdn.simpleicons.org/langchain" height="45" alt="LangChain" />
 </p>
-
----
-
-### 🛠️ Ferramentas
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="45" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="45" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="45" alt="Docker" />
+  <strong>Power BI • Machine Learning • RAG • LLMs • OpenAI API • Gemini API • LangGraph</strong>
+</p>
+
+### 🌐 Desenvolvimento Web e Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,nestjs,fastapi,prisma" height="48" />
+</p>
+
+### 🗄️ Bancos de dados
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="45" alt="Oracle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="SQL Server" />
+</p>
+
+### ☁️ Cloud, DevOps e infraestrutura
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,terraform,ansible,linux,bash" height="48" />
+</p>
+<p align="center">
+  <strong>SSH • Hadoop • Azure DevOps</strong>
+</p>
+
+### 🛠️ Ferramentas e versionamento
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,vercel" height="48" />
 </p>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
